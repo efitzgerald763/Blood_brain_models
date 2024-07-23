@@ -1,1 +1,1 @@
-This repository contains code for the prediction of individual brain expression features from whole blood expression data. Work in progress.
+This repository contains code for the prediction of individual brain expression features from whole blood expression data. Input data have been formatted, normalized and had technical covariates regressed from them previously. Work in progress.
